@@ -4,7 +4,7 @@ This is a static webpage for the 2024 Show-Me Rally Video Recce. It contains inf
 
 ## Live Site
 
-You can view the live site here: [2024 Show-Me Rally Video Recce](https://WTFestiva.github.io/show-me-rally/)
+You can view the live site here: [2024 Show-Me Rally Video Recce](https://wtfestiva.github.io/Show-Me-Rally-Video-Recce/)
 
 ## Project Overview
 
